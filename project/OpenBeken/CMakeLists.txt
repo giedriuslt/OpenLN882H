@@ -21,9 +21,9 @@ set(PROJ_ALL_SRC
     app/src/cmnds/cmd_tcp.c
     app/src/cmnds/cmd_test.c
     app/src/cmnds/cmd_tokenizer.c
-#    app/src/devicegroups/deviceGroups_read.c
-#    app/src/devicegroups/deviceGroups_util.c
-#    app/src/devicegroups/deviceGroups_write.c
+    app/src/devicegroups/deviceGroups_read.c
+    app/src/devicegroups/deviceGroups_util.c
+    app/src/devicegroups/deviceGroups_write.c
 #    app/src/driver/drv_adcButton.c
 #    app/src/driver/drv_adcSmoother.c
 #    app/src/driver/drv_battery.c
@@ -78,7 +78,7 @@ set(PROJ_ALL_SRC
 #    app/src/driver/drv_tm_gn_display_shared.c
 #    app/src/driver/drv_tm1637.c
 #    app/src/driver/drv_tm1638.c
-#    app/src/driver/drv_tuyaMCU.c
+    app/src/driver/drv_tuyaMCU.c
 #    app/src/driver/drv_tuyaMCUSensor.c
 #    app/src/driver/drv_uart.c
 #    app/src/driver/drv_ucs1912.c
